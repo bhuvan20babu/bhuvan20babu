@@ -1,4 +1,4 @@
-**👋 Hi, I’m @bhuvan20babu**
+**👋 Hi, I’m Bhuvan @bhuvan20babu**
 
 **🌐 Expertise:** I’m a Lead Technical Data Engineer with over 12 years of experience delivering enterprise-scale data platforms across HR, Finance, and Payments domains.
 
